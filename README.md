@@ -2,7 +2,7 @@
 
 ## Details
 
-- Class config has an Uber Bind and Rocket Jump Script **TURNED ON** by default. You'll need to delete or comment out those scripts if you don't want them on (in `medic.cfg` and `soldier.cfg` and `allclass.cfg`).
+- Class config has an Uber Bind and Rocket Jump Script **TURNED ON** by default. You'll need to delete or comment out those scripts if you don't want them on (in `medic.cfg` and `soldier.cfg` and `reset.cfg`).
 - Comanglia's config downloaded here: https://github.com/Comanglia/ComangliaComs
 
 ## Install
